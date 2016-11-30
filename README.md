@@ -1,5 +1,6 @@
-# guerreros-del-codigo
-Guerreros del Código
+# Guerreros del Código
+##Indice
+
 * Efecto dominó
 * Tierra de seniors
 * ¿Full stack?
