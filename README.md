@@ -1,5 +1,8 @@
 # Guerreros del Código
-##Indice
+
+En busca de Guerreros del Código es un libro escrito en forma colaborativa, orientado a profesionalizar en el rubro de desarrollo de software. Este libro cubre tanto el aspecto técnicos como recomendaciones para conseguir un trabajo que te lleve al siguiente nivel.
+
+##Indice (draft)
 
 * Efecto dominó
 * Tierra de seniors
